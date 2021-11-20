@@ -1,2 +1,2 @@
-# course planning backend
+# Course planning backend
 NodeJs backend for course planning web application
